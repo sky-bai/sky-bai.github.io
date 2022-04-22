@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://sky-bai.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2022 15:17:07 +0800</lastBuildDate><atom:link href="https://sky-bai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://sky-bai.github.io/post/blog/</link>
+      <pubDate>Fri, 22 Apr 2022 15:17:07 +0800</pubDate>
+      
+      <guid>https://sky-bai.github.io/post/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sky-bai.github.io/post/blog-post-d7b0fbee5fb44f388e099eb9a702011f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sky-bai.github.io/post/blog-post-d7b0fbee5fb44f388e099eb9a702011f/</guid>
+      <description>Blog Post A conversation with Ray Garcia, Jonathan Gold, Evan Kleiman, Bricia Lopez, and Carlos Salgado about the evolving role of Mexican cuisine in LA as culture, art, and craft
+Source: Food Icons on the Evolving Role of Mexican Cuisine in LA
+Together, critic Jonathan Gold, food scholar Evan Kleiman, and chefs Ray Garcia, Bricia Lopez, and Carlos Salgado have spent more than a lifetime preparing, eating, and writing about Latin American cuisine.</description>
+    </item>
+    
+  </channel>
+</rss>
